@@ -23,7 +23,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite3](https://img.shields.io/badge/-SQLite3-4479A1?style=flat&logo=sqlite&logoColor=white)
+![SQLite3](https://img.shields.io/badge/-SQLite3-4479A1?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0c…QmU8L3N2Zz4=)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
