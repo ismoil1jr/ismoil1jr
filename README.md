@@ -50,6 +50,7 @@
 - Once built a game site backend in just 2 days — because sleep is overrated 😴💻
 
 ---
+![Ismoil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismoil1jr&show_icons=true&theme=default)
 
 <!--
 **ismoil1jr/ismoil1jr** is a professional backend developer. 
