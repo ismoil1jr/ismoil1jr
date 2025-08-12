@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi there, I'm Ismoil Erkinov! 👋
 
 ## 💼 Backend Developer | Python Enthusiast | System Builder
@@ -56,4 +55,3 @@
 **ismoil1jr/ismoil1jr** is a professional backend developer. 
 Passionate about turning ideas into production-ready systems, and always striving to code smart, debug smarter!
 -->
-````
