@@ -50,7 +50,20 @@
 - Once built a game site backend in just 2 days — because sleep is overrated 😴💻
 
 ---
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!--
 **ismoil1jr/ismoil1jr** is a professional backend developer. 
 Passionate about turning ideas into production-ready systems, and always striving to code smart, debug smarter!
